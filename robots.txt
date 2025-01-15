@@ -1,3 +1,0 @@
-Sitemap: https://rentcar95.ru/sitemap.xml
-User-agent: *
-Allow: 
